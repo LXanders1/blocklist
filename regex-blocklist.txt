@@ -1,0 +1,27 @@
+# List of regex domains
+# Added them to this separate file as they're not supported through regular blocklists and need to be added manually
+# Last updated: 30-8-2023
+
+(\.|^)casinoscout\.nl$
+(\.|^)tooshecu\.com$
+(\.|^)pwkhgdsj\.com$
+(\.|^)zip$
+(\.|^)servefilesonly\.com$
+(\.|^)milffinder\.com$
+(\.|^)serving-adsserve\.com$
+(\.|^)cmtrkg\.com$
+(\.|^)adis\.ws$
+(\.|^)proffering\.xyz$
+(\.|^)cloudtraff\.com$
+(\.|^)viiithie\.com$
+(\.|^)altairaquilae\.top$
+(\.|^)explorefast-1\.com$
+(\.|^)salevanof\.com$
+(\.|^)shortbrandreviews\.com$
+(\.|^)purplewinds\.xyz$
+(\.|^)haffnetworkam\.com$
+(\.|^)salmonaddedbat\.xyz$
+(\.|^)prtrackings\.com$
+(\.|^)yandex\.net$
+(\.|^)strntt003z1\.click$
+(\.|^)batcg\.org$

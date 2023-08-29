@@ -1,13 +1,10 @@
 # Blocklist for adds and spam I found while browsing the internet
+# See the regex file for regex domains
 # Last modified: 30-8-2023
 
 sport-liefhebbers.com
 borgoonu.net
 addsintop.com
-*.casinoscout.nl
-*.tooshecu.com
-*.pwkhgdsj.com
-*.zip
 hinkhimunpractical.com
 discover-huge1.com
 meoneinthew.com
@@ -15,17 +12,6 @@ impsys6.com
 shopomio.online
 superweb.live
 npracticalwhich.com
-*.servefilesonly.com
-*.milffinder.com
-*.serving-adsserve.com
-*.cmtrkg.com
-*.adis.ws
-*.proffering.xyz
-*.cloudtraff.com
-*.viiithie.com
-*.altairaquilae.top
-*.explorefast-1.com
-*.salevanof.com
 alwhichhereallyw.com
 coffeetable.live
 broadbandpicker.com
@@ -33,26 +19,18 @@ pub-tubes.xyz
 godofservers.com
 thale-gds.com
 ereallywasnoth.com
-*.shortbrandreviews.com
-*.purplewinds.xyz
 globaladblocker.info
 jurato.info
 offergate-apps-pubrel.com
 ladthereisysom.com
 gamgladthereis.com
 kedasensiblem.info
-*.haffnetworkam.com
-*.salmonaddedbat.xyz
 videoadblockerpro.com
 kgroundandinte.net
 ngukmodukule.info
 enastamo.info
 stopadblocker.com
-*.prtrackings.com
 threateningeleven.com
 romanbra.com
-*.yandex.net
-*.strntt003z1.click
 freefromads.com
-*.batcg.org
 adblockology.com
